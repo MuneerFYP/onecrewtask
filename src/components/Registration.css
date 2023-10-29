@@ -1,0 +1,16 @@
+body{
+    background-image: url("../red.jpg");
+    background-color: rgba(252, 252, 252, 0.982);
+  }
+  .register-container {
+    text-align: center;
+    margin: 100px auto;
+    width: 350px;
+    padding: 150px;
+    border: 10px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f7e706;
+  }
+  
+  
